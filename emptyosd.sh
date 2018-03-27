@@ -1,2 +1,2 @@
-#§:BIN:BASH
+#!/bin/bash
 ceph osd crush reweight osd.$1 0  
